@@ -1,1 +1,1 @@
-[LINK](https://himanshu42.github.io/3d-card-flip/)
+[DEMO](https://himanshu42.github.io/3d-card-flip/)
